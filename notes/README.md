@@ -1,10 +1,8 @@
 # Tutorate Lukas Brickmann
 ## Termine
-* Do 8:15–9:45 Uhr,  
-Raum 051-03-026
+* Do 8:15–9:45 Uhr, Raum 051-03-026
 
-* Do 10:15–11:45 Uhr,  
-Raum 051-00-006
+* Do 10:15–11:45 Uhr, Raum 051-00-006
 
 
 ## Links
