@@ -1,0 +1,22 @@
+{
+    "python.defaultInterpreterPath": "python3.14",
+
+    "files.autoSave": "afterDelay",
+
+    "python.analysis.typeCheckingMode": "basic",
+
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportGeneralTypeIssues": "information"
+    },
+
+    "flake8.args": [
+        "--ignore=E501,E704,E731,W5,C901"
+    ],
+    
+    "flake8.severity": {
+        "E": "Warning",
+        "F": "Warning",
+        "I": "Warning",
+        "W": "Warning"
+    }
+}
