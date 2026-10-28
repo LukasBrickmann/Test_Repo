@@ -12,9 +12,7 @@
 
 
 ## News
+* Beim ersten Blatt werden manche Builds fälschlicherweise als fehlgeschlagen markiert (siehe entsprechende README.md).
 * Die Abgaberegeln wurden aktualisiert (siehe Top-Level-Statements).
 * Die Zuteilung der Übungsgruppen aus HISinOne sollte jetzt synchron mit unserer Plattform sein.
 
-
-## Inhalt des Repos
-* `my_sum_infoI01.md`: Zusammenfassung des Foliensatzes zur Vorlesung vom 20.10.2026.
