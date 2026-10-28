@@ -12,7 +12,9 @@
 
 
 ## News
-* Beim ersten Blatt werden manche Builds fälschlicherweise als fehlgeschlagen markiert (siehe entsprechende README.md).
+* Beim ersten Blatt wurden manche Builds fälschlicherweise als fehlgeschlagen markiert.
+
 * Die Abgaberegeln wurden aktualisiert (siehe Top-Level-Statements).
+
 * Die Zuteilung der Übungsgruppen aus HISinOne sollte jetzt synchron mit unserer Plattform sein.
 
