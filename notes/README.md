@@ -11,10 +11,22 @@
 * [Abgaberegeln](https://proglang.github.io/teaching/26ws/eidp/rules.html)
 
 
+## Korrektur Blatt01  
+* Ich konnte 35 Studi-Repos pullen; in 29 davon befand sich tatsächlich eine Abgabe.
+
+* 7-mal wurden Flake8-Fehler gemeldet.
+
+* 8-mal wurde sich nicht an die Formatierung der NOTES.md gehalten.
+
+* Insgesamt kam es dadurch zu **12 Abgaben, die wegen des Builds mit Null Punkten bewertet wurden**.
+
+* **Hinweis**: Wer sich aus irgendwelchen Gründen nicht sicher ist, ob er die Syle Guidelines erfüllt, kann auch zur Not immer - wie in meinen ersten Tutoraten gezeigt - auf seinem Rechner `flake8` selbst ausführen; sofern es installiert ist. Dabei ist allerdings zu beachten, dass standardsmäßig die von uns ignorierten Meldungen `E501,E704,E731,W5,C901` auch angezeigt werden.
+
+
 ## News
+
 * Beim ersten Blatt wurden manche Builds fälschlicherweise als fehlgeschlagen markiert.
 
 * Die Abgaberegeln wurden aktualisiert (siehe Top-Level-Statements).
 
 * Die Zuteilung der Übungsgruppen aus HISinOne sollte jetzt synchron mit unserer Plattform sein.
-
