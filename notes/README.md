@@ -14,16 +14,19 @@
 ## Korrektur Blatt01  
 * Ich konnte 35 Studi-Repos pullen; in 29 davon befand sich tatsächlich eine Abgabe.
 
-* 7-mal wurden Flake8-Fehler gemeldet.
+* 8-mal wurden Flake8-Fehler gemeldet.
 
 * 8-mal wurde sich nicht an die Formatierung der NOTES.md gehalten.
 
 * Insgesamt kam es dadurch zu **12 Abgaben, die wegen des Builds mit Null Punkten bewertet wurden**.
 
-* **Hinweis**: Wer sich aus irgendwelchen Gründen nicht sicher ist, ob er die Syle Guidelines erfüllt, kann auch zur Not immer - wie in meinen ersten Tutoraten gezeigt - auf seinem Rechner `flake8` selbst ausführen; sofern es installiert ist. Dabei ist allerdings zu beachten, dass standardsmäßig die von uns ignorierten Meldungen `E501,E704,E731,W5,C901` auch angezeigt werden.
+## Aktuelles
 
-
-## News
+* Die Korrektur von Blatt01 gibt Anlass zu folgender Bemerkung: Unter Linux kann man – sofern flake8 installiert ist – mit dem Befehl
+  ```bash
+  flake8 --ignore=E501,E704,E731,W5,C901 *.py
+  ```
+  alle Python-Dateien im aktuellen Arbeitsverzeichnis auf genau die von unserer VSC-Extension berücksichtigten Meldungen prüfen.
 
 * Beim ersten Blatt wurden manche Builds fälschlicherweise als fehlgeschlagen markiert.
 
