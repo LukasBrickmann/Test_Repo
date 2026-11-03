@@ -11,22 +11,10 @@
 * [Abgaberegeln](https://proglang.github.io/teaching/26ws/eidp/rules.html)
 
 
-## Korrektur Blatt01  
-* Ich konnte 35 Studi-Repos pullen; in 29 davon befand sich tatsächlich eine Abgabe.
-
-* 8-mal wurden Flake8-Fehler gemeldet.
-
-* 8-mal wurde sich nicht an die Formatierung der NOTES.md gehalten.
-
-* Insgesamt kam es dadurch zu **12 Abgaben, die wegen des Builds mit Null Punkten bewertet wurden**.
-
 ## Aktuelles
+* Momentan sind die Abgaben der Studierenden noch sehr ungleichmäßig auf die Korrekteure verteilt. **Damit der Arbeitsaufwand der Tutoren halbwegs ausgeglichen ist, bitten wir euch in dieser Woche, euch selbständig auf HISinOne möglichst gleichmäßig auf die verschiedenen Übungsgruppen zu verteilen.** Wie davor gilt auch danach, dass ihr eigentlich in eurem Wunsch-Tutorat anwesend sein dürft, solange dieses nicht überfüllt ist. Falls diese Bitte nicht die gewünschte Wirkung hat, werden wir euch wohl irgendwie selbst umverteilen müssen. **Danke für die Hilfe!**
 
-* Die Korrektur von Blatt01 gibt Anlass zu folgender Bemerkung: Unter Linux kann man – sofern flake8 installiert ist – mit dem Befehl
-  ```bash
-  flake8 --ignore=E501,E704,E731,W5,C901 *.py
-  ```
-  alle Python-Dateien im aktuellen Arbeitsverzeichnis auf genau die von unserer VSC-Extension berücksichtigten Meldungen prüfen.
+* [Bemerkungen zur Korrektur](/correction_remarks.md) wurden hinzugefügt.
 
 * Beim ersten Blatt wurden manche Builds fälschlicherweise als fehlgeschlagen markiert.
 
