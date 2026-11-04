@@ -4,6 +4,12 @@
 
 * Do 10:15–11:45 Uhr, Raum 051-00-006
 
+* **Ausfalltermine**
+  * Do 8–10 Uhr: 051-00-031 oder 051-00-034
+
+  * Do 10–12 Uhr: 051-00-031
+
+  * Die genauen Uhrzeiten können leicht abweichen.
 
 ## Links
 * [Forum](https://git.proglang.de/2026WS-EidP/forum/issues)
@@ -12,12 +18,8 @@
 
 
 ## Aktuelles
+* Leider fallen meine beiden **Tutorate am 05.11.2026 krankheitsbedingt** aus. Ihr könnt gerne eines der oben genannten Ersatztutorate besuchen.
+
 * Momentan sind die Abgaben der Studierenden noch sehr ungleichmäßig auf die Korrekteure verteilt. **Damit der Arbeitsaufwand der Tutoren halbwegs ausgeglichen ist, bitten wir euch in dieser Woche, euch selbständig auf HISinOne möglichst gleichmäßig auf die verschiedenen Übungsgruppen zu verteilen.** Wie davor gilt auch danach, dass ihr eigentlich in eurem Wunsch-Tutorat anwesend sein dürft, solange dieses nicht überfüllt ist. Falls diese Bitte nicht die gewünschte Wirkung hat, werden wir euch wohl irgendwie selbst umverteilen müssen. **Danke für die Hilfe!**
 
 * [Bemerkungen zur Korrektur](./correction_remarks.md) wurden hinzugefügt.
-
-* Beim ersten Blatt wurden manche Builds fälschlicherweise als fehlgeschlagen markiert.
-
-* Die Abgaberegeln wurden aktualisiert (siehe Top-Level-Statements).
-
-* Die Zuteilung der Übungsgruppen aus HISinOne sollte jetzt synchron mit unserer Plattform sein.
