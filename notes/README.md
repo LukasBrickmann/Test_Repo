@@ -18,6 +18,10 @@
 
 
 ## Aktuelles
+* Bitte verzeiht mir, aber leider müssen auch meine **Tutorate am 12.11.2026 krankheitsbedingt ausfallen**. Hannah, Lillian und Paul heißen euch ersatzweise willkommen (siehe Ausfalltermine).
+
+* Leider werde ich aufgrund meiner Krankheit Blatt02 erst in der 4.VL-Woche, also zusammen mit Blatt03, korrigieren können.
+
 * Leider fallen meine beiden **Tutorate am 05.11.2026 krankheitsbedingt** aus. Ihr könnt gerne eines der oben genannten Ersatztutorate besuchen.
 
 * Momentan sind die Abgaben der Studierenden noch sehr ungleichmäßig auf die Korrekteure verteilt. **Damit der Arbeitsaufwand der Tutoren halbwegs ausgeglichen ist, bitten wir euch in dieser Woche, euch selbständig auf HISinOne möglichst gleichmäßig auf die verschiedenen Übungsgruppen zu verteilen.** Wie davor gilt auch danach, dass ihr eigentlich in eurem Wunsch-Tutorat anwesend sein dürft, solange dieses nicht überfüllt ist. Falls diese Bitte nicht die gewünschte Wirkung hat, werden wir euch wohl irgendwie selbst umverteilen müssen. **Danke für die Hilfe!**
